@@ -14,9 +14,4 @@ public class Assprb {
         sc.close();
     }
 }
-/*
-submit = 3
-before 10PM
-start at X pm!
-1 ass take 1h
-*/ 
+
