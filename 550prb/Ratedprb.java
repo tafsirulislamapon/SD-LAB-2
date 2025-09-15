@@ -10,9 +10,3 @@ public class Ratedprb {
         sc.close();
     }
 }
-/*
-100 page ---> 1 notebook
-1----------->1/100
-1000pages ---------> 1000/100 notebook = 10 nbs
-1kg ------------> 10 notebooks
-*/ 
