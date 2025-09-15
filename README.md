@@ -1,7 +1,6 @@
 ![AI Generated Image](https://i.imgur.com/f9iutRV.png)
 
 ```
-
 Id : C 24 30 25 
 Section : 3BM
 Batch : 58th
