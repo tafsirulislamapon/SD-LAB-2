@@ -1,4 +1,4 @@
-![AI Generated Image](https://i.imgur.com/f9iutRV.png)
+![AI Generated Image](https://i.imgur.com/aa2TFDs.png)
 
 ```
 Id : C 24 30 25 
