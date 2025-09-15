@@ -18,7 +18,6 @@ Batch : 58th
  - Capitalization
  - Fill-water
  - fill water prb soln
- - yesterday
  - FindOddOne
  - FindStrictAverage
  - IIUC-TV
