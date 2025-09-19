@@ -24,28 +24,8 @@ Course : CSE 2340
  - prb solve 570
  - PlayGround.java
  - prb solve 570
+ - 580prb solve
+ - 584 prb solve
+ - 605 prb solve
 
 ```
-
-
-## Skills
-- Java
-- Problem-solving & Algorithm Design
-- Debugging & Testing
-- Code Organization & Documentation
-
- 
-## Lessons Learned
-
-During this lab, I gained valuable experience in:
-
-- **Java fundamentals:** Strengthened understanding of arrays, strings, loops, and conditionals.  
-- **Problem-solving skills:** Learned to break down complex problems into smaller, manageable tasks.  
-- **Code organization:** Practiced keeping solutions organized in separate files and folders for clarity.  
-- **Debugging techniques:** Improved debugging skills using systematic testing and error analysis.  
-- **Version control:** Reinforced the use of Git and GitHub for managing project files and collaboration.  
-- **Readability & documentation:** Learned the importance of writing clean, well documented code for easier maintenance and understanding.
-
-
-
-
